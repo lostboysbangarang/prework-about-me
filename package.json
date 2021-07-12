@@ -1,0 +1,19 @@
+{
+  "name": "prework-about-me",
+  "version": "1.0.0",
+  "description": "Prework for OSU Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostboysbangarang/prework-about-me.git"
+  },
+  "author": "Hayden Lugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostboysbangarang/prework-about-me/issues"
+  },
+  "homepage": "https://github.com/lostboysbangarang/prework-about-me#readme"
+}
